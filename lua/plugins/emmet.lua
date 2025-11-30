@@ -23,6 +23,7 @@ return {
           "pug",
           "eruby", -- For Rails/Ruby
           "blade", -- For Laravel/PHP
+          "markdown",
         },
         -- ...
       })
